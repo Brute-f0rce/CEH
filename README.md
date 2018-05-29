@@ -31,7 +31,6 @@
   * Social Engineering
   * Denial of Service
   * Session Hijacking
-  * Resources
 
 
 
