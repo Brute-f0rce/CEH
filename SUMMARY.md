@@ -15,7 +15,7 @@
 * [Hacking Web Applications](hacking-web-applications.md)
 * [SQL Injection](sql-injection.md)
 * [Hacking Wireless Networks](hacking-wireless-networks.md)
-* Hacking Mobile Platforms
+* [Hacking Mobile Platforms](hacking-mobile-platforms.md)
 * Evading IDS, Firewalls, and Honeypots
 * Cloud Computing
 * Cryptography
