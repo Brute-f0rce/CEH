@@ -104,7 +104,7 @@
    * Use SFTP instead of FTP
 
 
-#Sniffing Detection Techniques
+# Sniffing Detection Techniques
 
 
    * Runs IDS and notice if mac address of certain machines have changed
