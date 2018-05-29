@@ -4,7 +4,7 @@
 * [Introduction to Ethical Hacking](introduction-to-ethical-hacking.md)
 * [Footprinting and Reconnaissance](footprinting-and-reconnaissance.md)
 * [Scanning Networks](scanning-networks.md)
-* Enumeration
+* [Enumeration](enumeration.md)
 * System Hacking
 * Malware Threats
 * Sniffing
