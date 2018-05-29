@@ -10,7 +10,7 @@
 * [Sniffing](sniffing.md)
 * [Social Engineering](social-engineering.md)
 * [Denial of Service](denial-of-service.md)
-* Session Hijacking
+* [Session Hijacking](session-hijacking.md)
 * Hacking Web Servers
 * Hacking Web Applications
 * SQL Injection
