@@ -16,7 +16,7 @@
 * [SQL Injection](sql-injection.md)
 * [Hacking Wireless Networks](hacking-wireless-networks.md)
 * [Hacking Mobile Platforms](hacking-mobile-platforms.md)
-* Evading IDS, Firewalls, and Honeypots
+* [Evading IDS, Firewalls, and Honeypots](evading-ids-firewalls-and-honeypots.md)
 * Cloud Computing
 * Cryptography
 * [Resources](resources.md)
