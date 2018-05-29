@@ -12,8 +12,8 @@
 * [Denial of Service](denial-of-service.md)
 * [Session Hijacking](session-hijacking.md)
 * [Hacking Web Servers](hacking-web-servers.md)
-* Hacking Web Applications
-* SQL Injection
+* [Hacking Web Applications](hacking-web-applications.md)
+* [SQL Injection](sql-injection.md)
 * Hacking Wireless Networks
 * Hacking Mobile Platforms
 * Evading IDS, Firewalls, and Honeypots
