@@ -45,7 +45,7 @@
 
 ### Five Phases of Hacking: 
 
-* **Reconnaissance **-  Preparation phase when an attacker seeks to gather information Does not directly interact with the system, and relies on social engineering and public info.
+* **Reconnaissance** -  Preparation phase when an attacker seeks to gather information Does not directly interact with the system, and relies on social engineering and public info.
 * **Scanning** - Identify specific vulnerabilities \(in-depth probing\) Using Port scanners to 
 
   detect listening ports \(companies should shut down ports that are not required\)
