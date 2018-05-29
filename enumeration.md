@@ -44,7 +44,7 @@
    * MIB is a virtual database containing formal description of all the network objects managed using SNMP
 
 
-#LDAP Enumeration
+# LDAP Enumeration
 
 * LDAP is an internet protocol for accessing distributed directory services
 * Attacker queries LDAP service to gather information such as valid user names, addresses, departmental details, etc
