@@ -31,6 +31,14 @@
   * Social Engineering
   * Denial of Service
   * Session Hijacking
+  * Hacking Web Servers
+  * Hacking Web Applications
+  * SQl Injection
+  * Hacking Wireless Networks
+  * Hacking Mobile Platforms
+  * Evading IDS, Firewalls, and Honeypots
+  * Cloud Computing
+  * Resources
 
 
 
