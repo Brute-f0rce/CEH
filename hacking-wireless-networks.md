@@ -34,58 +34,54 @@
 
 ## Wireless Encryption
 
-
-      * WEP (wired equivalent privacy): weakest encryption. Uses 24-bit initialization vector. A 64 bit WEP uses a 40 bit key etc
-      * Can use Cain & Abel to crack
-      * WPA (Wifi Protected Access): Stronger encryption with TKIP.
-      * You can brute force the keys offline
-      * You can defend by using stronger passphrases
-      * WPA2: Stronger data protection with AES
-      * WPA-2 personal uses a pre-shared key to protect access
-      * WPA-2 Enterprise includes EAP or RADIUS for centralized authentication w/kerberos etc
+   * WEP (wired equivalent privacy): weakest encryption. Uses 24-bit initialization vector. A 64 bit WEP uses a 40 bit key etc
+   * Can use Cain & Abel to crack
+   * WPA (Wifi Protected Access): Stronger encryption with TKIP.
+   * You can brute force the keys offline
+   * You can defend by using stronger passphrases
+   * WPA2: Stronger data protection with AES
+   * WPA-2 personal uses a pre-shared key to protect access
+   * WPA-2 Enterprise includes EAP or RADIUS for centralized authentication w/kerberos etc
 
 
 ## Wireless Threats
-
-
-      * Access Control Attacks: Aims to penetrate a network by evading WLAN access control measures, such as AP MAC filters and Wi-Fi port access controls
-      * Integrity Attacks: Sending forged control management or data frames over a wireless network
-      * Confidentiality Attacks: attempt to intercept confidential information sent over wireless associations
-      * Availability Attacks: DoS
-      * Authentication Attacks: Steal the identity of Wi-Fi clients, their PI, logins, etc. to unauthorized access of network resources
-      * Rogue Access Point Attack: Hijacking connections and acting as a middle man sniffing 
-      * Client Mis-Association: Attacker sets up a rogue access point outside of the corporate perimeter and lures the employees of the organization to connect with it 
-      * Misconfigured Access Point Attack: Accidents for configurations that you can exploit
-      * AD Hoc connection attack: Wifi Clients communicate directly in ad-hoc and do not require AP to relay packet. Attack can attack OS direct since the encryption is weak
-      * Honeyspot Access Point Attack: Attacker takes advantage of multiple WLAN’s in area and use same SID 
-      * AP MAC Spoofing: Hacker spoofs the MAC address of the WLAN client equipment to mask an authorized client 
-      * Jamming Signal Attack: High gain amplifier 
+   * Access Control Attacks: Aims to penetrate a network by evading WLAN access control measures, such as AP MAC filters and Wi-Fi port access controls
+   * Integrity Attacks: Sending forged control management or data frames over a wireless network
+   * Confidentiality Attacks: attempt to intercept confidential information sent over wireless associations
+   * Availability Attacks: DoS
+   * Authentication Attacks: Steal the identity of Wi-Fi clients, their PI, logins, etc. to unauthorized access of network resources
+   * Rogue Access Point Attack: Hijacking connections and acting as a middle man sniffing 
+   * Client Mis-Association: Attacker sets up a rogue access point outside of the corporate perimeter and lures the employees of the organization to connect with it 
+   * Misconfigured Access Point Attack: Accidents for configurations that you can exploit
+   * AD Hoc connection attack: Wifi Clients communicate directly in ad-hoc and do not require AP to relay packet. Attack can attack OS direct since the encryption is weak
+   * Honeyspot Access Point Attack: Attacker takes advantage of multiple WLAN’s in area and use same SID 
+   * AP MAC Spoofing: Hacker spoofs the MAC address of the WLAN client equipment to mask an authorized client 
+   * Jamming Signal Attack: High gain amplifier 
 
 
 ## Wireless Hacking Methodology
 
 
-      1. WiFi Discovery: discovers the WiFi network
-      2. GPS Mapping: Attackers create a map of discovered Wi-Fi network and create a database
-      3. Wireless Traffic Analysis: identify vulnerabilities, WiFi reconnaissance, Tools for Packet Capture & Analysis
-      4. Launch Wireless Attacks
-      1.         2. Fragmentation Attack: can obtain 1500 bytes of PRGA data that can be used for injection attacks
-      3. Mac Spoofing: attackers change MAC address to that of an authenticated user to bypass the MAC filtering configured in an access point 
-      4. Denial of Service: Deauthentication and Disassociation attacks
-      5. Man in the middle attack MITM : Attacker spoofs his MAC, sends a deAuth requests and then puts himself in the middle
-      6. Wireless ARP poisoning attack: 
-      7. Rogue Access Point: Wireless APs attacker installs on a network without authorization and are not under management of the network administrator. Are not configured with any security
-      8. Evil Twin: Replicates another wireless APs name via common SSID
+   1. WiFi Discovery: discovers the WiFi network
+   2. GPS Mapping: Attackers create a map of discovered Wi-Fi network and create a database
+   3. Wireless Traffic Analysis: identify vulnerabilities, WiFi reconnaissance, Tools for Packet Capture & Analysis
+   4. Launch Wireless Attacks
+      1.Fragmentation Attack: can obtain 1500 bytes of PRGA data that can be used for injection attacks
+      2. Mac Spoofing: attackers change MAC address to that of an authenticated user to bypass the MAC filtering configured in an access point 
+      3. Denial of Service: Deauthentication and Disassociation attacks
+      4. Man in the middle attack MITM : Attacker spoofs his MAC, sends a deAuth requests and then puts himself in the middle
+      5. Wireless ARP poisoning attack: 
+      6. Rogue Access Point: Wireless APs attacker installs on a network without authorization and are not under management of the network administrator. Are not configured with any security
+      7. Evil Twin: Replicates another wireless APs name via common SSID
 
 
-         1. Crack Wi-Fi encryption
+   5. Crack Wi-Fi encryption
          1. Crack WEP using Aircrack
          2. Crack WPA-PSK using aircrack
          3. WEP cracking using Cain & Abel
 
 
-         1. Compromise the Wi-Fi Network
-
+   6. Compromise the Wi-Fi Network
 
          * What is spectrum analysis
          * RF spectrum analyzers examine Wi-Fi radio transmissions and measure power (amplitude)
@@ -96,17 +92,15 @@
 ## Bluetooth Hacking
 
 
-         * Exploitation of Bluetooth Stack implementation vulnerabilities
-         * Bluesmacking: DoS attack which overflows Bluetooth-enabled devices with random packets causing device to crash
-         * Bluejacking: sending unsolicited messages over bluetooth to bluetooth-enabled devices such as mobile phones, laptops, etc
-         * Bluesnarfing: Theft of information from a wireless device through a bluetooth connection
+   * Exploitation of Bluetooth Stack implementation vulnerabilities
+   * Bluesmacking: DoS attack which overflows Bluetooth-enabled devices with random packets causing device to crash
+   * Bluejacking: sending unsolicited messages over bluetooth to bluetooth-enabled devices such as mobile phones, laptops, etc
+   * Bluesnarfing: Theft of information from a wireless device through a bluetooth connection
          * Blue Sniff: Proof of concept code for a bluetooth wardriving utility 
          * Bluebugging: remotely accessing the bluetooth-enabled devices and using its features
          * BluePrinting: collecting information about bluetooth enabled devices such as manufacturer, device model, firmware
          * MAC spoofing attack: intercepting data intended for other bluetooth enabled devices 
          * MITM: Modifying data between bluetooth enabled devices communication on a piconet 
-
-
          * Bluetooth Modes:
          * Discoverable, Limited Discoverable (timed), Non-discoverable
          * Pairing Modes
@@ -117,7 +111,7 @@
 ## Countermeasures
 
 
-         * How to defend against bluetooth hacking
+   * How to defend against bluetooth hacking
          * Use non-regular patterns such as PIN keys
          * Keep device in non-discoverable mode
          * Keep a check of all paired devices
@@ -127,6 +121,6 @@
 ## Wireless Security Tools
 
 
-         * Wireless Intrusion Prevention Systems 
+   * Wireless Intrusion Prevention Systems 
 
 
