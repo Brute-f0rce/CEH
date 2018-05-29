@@ -17,7 +17,20 @@
   * Footprinting and Reconnaissance
   * Scanning Networks
 
-### 
+### 1.0.1 - 2018-05-29
+
+#### Added
+
+* Added Content to
+  * Footprinting and Reconnaisance
+  * Scanning Networks
+  * Enumeration
+  * System Hacking
+  * Malware Threats
+  * Sniffing
+  * Social Engineering
+  * Denial of Service
+  * Session Hijacking
 
 
 
