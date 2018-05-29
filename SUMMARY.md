@@ -9,7 +9,7 @@
 * [Malware Threats](malware-threats.md)
 * [Sniffing](sniffing.md)
 * [Social Engineering](social-engineering.md)
-* Denial of Service
+* [Denial of Service](denial-of-service.md)
 * Session Hijacking
 * Hacking Web Servers
 * Hacking Web Applications
