@@ -19,4 +19,5 @@
 * Evading IDS, Firewalls, and Honeypots
 * Cloud Computing
 * Cryptography
+* [Resources](resources.md)
 
