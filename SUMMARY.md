@@ -17,7 +17,7 @@
 * [Hacking Wireless Networks](hacking-wireless-networks.md)
 * [Hacking Mobile Platforms](hacking-mobile-platforms.md)
 * [Evading IDS, Firewalls, and Honeypots](evading-ids-firewalls-and-honeypots.md)
-* Cloud Computing
+* [Cloud Computing](cloud-computing.md)
 * Cryptography
 * [Resources](resources.md)
 
