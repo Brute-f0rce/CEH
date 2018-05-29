@@ -7,7 +7,7 @@
 * [Enumeration](enumeration.md)
 * [System Hacking](system-hacking.md)
 * [Malware Threats](malware-threats.md)
-* Sniffing
+* [Sniffing](sniffing.md)
 * Social Engineering
 * Denial of Service
 * Session Hijacking
