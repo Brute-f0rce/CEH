@@ -6,7 +6,7 @@
 * [Scanning Networks](scanning-networks.md)
 * [Enumeration](enumeration.md)
 * [System Hacking](system-hacking.md)
-* Malware Threats
+* [Malware Threats](malware-threats.md)
 * Sniffing
 * Social Engineering
 * Denial of Service
