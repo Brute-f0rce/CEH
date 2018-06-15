@@ -18,6 +18,6 @@
 * [Hacking Mobile Platforms](hacking-mobile-platforms.md)
 * [Evading IDS, Firewalls, and Honeypots](evading-ids-firewalls-and-honeypots.md)
 * [Cloud Computing](cloud-computing.md)
-* Cryptography
+* [Cryptography](cryptography.md)
 * [Resources](resources.md)
 
